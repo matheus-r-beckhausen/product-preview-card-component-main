@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    .card {
+        width: 335px;
+        height: 615px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .produto {
+        margin: 20px;
+    }
+
+    picture img {
+        width: 335px;
+        height: 234px;
+        border-radius: 10px 10px 0 0;
+    }
+}
